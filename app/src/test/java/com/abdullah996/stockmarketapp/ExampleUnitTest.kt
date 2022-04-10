@@ -1,4 +1,4 @@
-package com.plcoding.stockmarketapp
+package com.abdullah996.stockmarketapp
 
 import org.junit.Test
 
